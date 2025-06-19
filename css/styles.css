@@ -91,7 +91,7 @@ p {
     display: block;
     width: 90px;
     height: 60px;
-    background-image: url('/img/logo/logo.webp');
+    background-image: url('../img/logo/logo.webp');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
